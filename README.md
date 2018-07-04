@@ -1,5 +1,6 @@
 # helloGithub
 Introduction to GitHub and Git 
+
 GIT COMMANDS
 1. git init -> initialise a repository
 2. git remote add origin "link of repository on github"
